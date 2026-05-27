@@ -1,7 +1,7 @@
-# Code of Conduct
+# Código de conduta
 
-Be respectful, constructive and clear.
+Seja respeitoso, construtivo e claro.
 
-These repositories are learning spaces. Feedback is welcome when it helps improve the code, documentation or project structure.
+Estes repositórios são espaços de aprendizado. Feedback é bem-vindo quando ajuda a melhorar o código, a documentação ou a estrutura do projeto.
 
-Unacceptable behavior includes harassment, insults, personal attacks, spam or intentionally disruptive comments.
+Comportamentos inaceitáveis incluem assédio, insultos, ataques pessoais, spam ou comentários intencionalmente disruptivos.
