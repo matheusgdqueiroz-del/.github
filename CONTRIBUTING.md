@@ -1,16 +1,16 @@
-# Contributing
+# Contribuindo
 
-Thanks for taking the time to improve one of my projects.
+Obrigado por dedicar tempo para melhorar um dos meus projetos.
 
-## How to contribute
+## Como contribuir
 
-1. Open an issue describing the bug, idea or improvement.
-2. Keep the change focused and easy to review.
-3. Use clear commit messages.
-4. Add screenshots or examples when the change affects a page or layout.
+1. Abra uma issue descrevendo o bug, ideia ou melhoria.
+2. Mantenha a mudança focada e fácil de revisar.
+3. Use mensagens de commit claras.
+4. Inclua capturas de tela ou exemplos quando a mudança afetar uma página ou layout.
 
-## Code style
+## Estilo de código
 
-- Prefer simple HTML, CSS and JavaScript.
-- Keep files organized by project or exercise.
-- Avoid unrelated formatting changes in the same pull request.
+- Prefira HTML, CSS e JavaScript simples.
+- Mantenha os arquivos organizados por projeto ou exercício.
+- Evite mudanças de formatação sem relação com a proposta principal.
