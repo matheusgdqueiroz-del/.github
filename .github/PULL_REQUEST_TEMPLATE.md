@@ -1,9 +1,9 @@
-## Summary
+## Resumo
 
-Describe what changed.
+Descreva o que mudou.
 
 ## Checklist
 
-- [ ] The change is focused.
-- [ ] I tested the affected page or code.
-- [ ] I added screenshots for visual changes when useful.
+- [ ] A mudança está focada.
+- [ ] Testei a página ou código afetado.
+- [ ] Adicionei capturas de tela para mudanças visuais quando útil.
