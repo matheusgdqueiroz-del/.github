@@ -1,31 +1,31 @@
 ---
-name: Bug report
-about: Report something that is broken or not working as expected
+name: Relato de bug
+about: Informe algo quebrado ou funcionando diferente do esperado
 title: "bug: "
 labels: bug
 assignees: ""
 ---
 
-## What happened?
+## O que aconteceu?
 
-Describe the problem clearly.
+Descreva o problema com clareza.
 
-## Steps to reproduce
+## Passos para reproduzir
 
-1. Go to...
-2. Click on...
-3. See the issue...
+1. Acesse...
+2. Clique em...
+3. Veja o problema...
 
-## Expected behavior
+## Comportamento esperado
 
-Describe what should have happened.
+Descreva o que deveria ter acontecido.
 
-## Screenshots
+## Capturas de tela
 
-Add screenshots if the issue is visual.
+Adicione imagens se o problema for visual.
 
-## Environment
+## Ambiente
 
-- Browser:
-- Device:
-- Page or file:
+- Navegador:
+- Dispositivo:
+- Página ou arquivo:
