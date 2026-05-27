@@ -1,19 +1,19 @@
 ---
-name: Feature request
-about: Suggest an improvement or new idea
+name: Sugestão de melhoria
+about: Sugira uma melhoria ou nova ideia
 title: "feat: "
 labels: enhancement
 assignees: ""
 ---
 
-## Idea
+## Ideia
 
-Describe the improvement.
+Descreva a melhoria.
 
-## Why it helps
+## Por que isso ajuda?
 
-Explain the value or problem it solves.
+Explique o valor ou o problema que ela resolve.
 
-## Notes
+## Observações
 
-Add links, screenshots or examples if useful.
+Adicione links, capturas de tela ou exemplos se forem úteis.
