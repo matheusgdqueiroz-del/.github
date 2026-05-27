@@ -1,5 +1,5 @@
-# Default Community Files
+# Arquivos comunitários padrão
 
-This repository stores default community health files for my public repositories.
+Este repositório guarda arquivos comunitários padrão para meus repositórios públicos.
 
-These files help keep issues, pull requests, contributions and security notes consistent across projects that do not define their own templates.
+Eles ajudam a manter issues, pull requests, contribuições e orientações de segurança mais consistentes nos projetos que não possuem templates próprios.
