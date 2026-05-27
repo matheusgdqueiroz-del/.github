@@ -1,7 +1,7 @@
-# Security Policy
+# Política de segurança
 
-If you find a security issue in one of my public projects, please avoid publishing exploit details in a public issue.
+Se encontrar um problema de segurança em algum dos meus projetos públicos, evite publicar detalhes de exploração em uma issue pública.
 
-Open a private contact path through my GitHub profile or create a minimal issue asking for a private conversation.
+Use um caminho privado de contato pelo meu perfil do GitHub ou abra uma issue mínima solicitando uma conversa privada.
 
-These projects are mainly educational, but responsible disclosure is still appreciated.
+Estes projetos são principalmente educacionais, mas a divulgação responsável ainda é bem-vinda.
